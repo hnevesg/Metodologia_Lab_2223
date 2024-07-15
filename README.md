@@ -7,5 +7,5 @@ Componentes
         
     ./src -> Directorio con el código fuente dividido por prácticas
 
-[!WARNING] 
-La práctica 2 no tiene implementado un algoritmo Divide y Vencerás, se ha incluido sólo por si ayuda a entender la práctica 2.
+> [!WARNING] 
+La práctica 2 no tiene implementado un algoritmo Divide y Vencerás, se ha incluido sólo por si es de ayuda.
